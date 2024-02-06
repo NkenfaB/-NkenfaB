@@ -10,4 +10,4 @@ Beyond coding, I enjoy following Development Trends, gaming, and Reading,
 Sometimes i also play tennis.
 
 # Let's Connect!
-[![LinkedIn](https://example.com/linkedin_icon.png)](https://www.linkedin.com/in/nkenfa-brandon-30064b178)
+[![LinkedIn](https://github.com/NkenfaB/-NkenfaB/blob/main/linkedln.svg)](https://www.linkedin.com/in/nkenfa-brandon-30064b178)
