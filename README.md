@@ -12,6 +12,12 @@ Sometimes i also play tennis.
 # Let's Connect!
 [![LinkedIn](https://github.com/NkenfaB/-NkenfaB/blob/main/linkedln.svg)](https://www.linkedin.com/in/nkenfa-brandon-30064b178)
 
+## 📕 About
+   <li>🔭 I’m currently working on my final year project </li>
+   <li>👯 I’m looking to collaborate with other developers </li>
+   <li>🥅 2023 Goal: To Contribute more to Open Source Projects </li>
+   <li>⚡ Fun fact: I love JavaScript </li>
+   <li> :octocat: Staying Consistent is the key </li>
 
 ## ⏲️ Github Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neba-Emmanuel&layout=compact&theme=dracula&langs_count=9)
