@@ -10,9 +10,9 @@ Beyond coding, I enjoy following Development Trends, gaming, and Reading,
 Sometimes i also play tennis.
 
 # Let's Connect!
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 [![LinkedIn](https://github.com/NkenfaB/-NkenfaB/blob/main/linkedln.svg)](https://www.linkedin.com/in/nkenfa-brandon-30064b178)
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- <img src="https://komarev.com/ghpvc/?username=sonwaroberto&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=nkenfab&style=flat-square&color=blue" alt=""/>
 
 ## 📕 About
    <li>🔭 I’m currently working on my final year project </li>
